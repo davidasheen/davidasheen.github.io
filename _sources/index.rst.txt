@@ -18,7 +18,9 @@ Links
 +++++
 
 `Github profile <https://github.com/davidasheen>`_
+
 `NIST GitHub Organization <https://github.com/usnistgov>`_
+
 `NIST home page <http://nist.gov>`_
 
 
@@ -30,11 +32,3 @@ Contents
    :maxdepth: 2
    :caption: Contents:
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
