@@ -6,7 +6,7 @@
 Github Pages: David A. Sheen
 ============================
 
-Welcome to the GitHub landing page for Dr. David A. Sheen, a computational physicist at the United StatedNational Institute of Standards and Technology
+Welcome to the GitHub landing page for Dr. David A. Sheen, a computational physicist at the United States National Institute of Standards and Technology
 
 My Projects
 +++++++++++
