@@ -13,6 +13,11 @@ My Projects
 
 `MUM-PCE Python Implementation <https://davidasheen.github.io/mumpce_py>`_
 
+`Quality Assurance in Metabolomics interlaboratory comparison programs <https://davidasheen.github.io/qmet>`_
+
+`Machine Learning Uncertainty <https://davidasheen.github.io/pls_uncertainty>`_
+
+
 
 Links
 +++++
