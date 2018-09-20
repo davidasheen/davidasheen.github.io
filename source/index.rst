@@ -13,20 +13,28 @@ My Projects
 
 `MUM-PCE Python Implementation <https://pages.nist.gov/mumpce_py>`_
 
-`Quality Assurance in Metabolomics interlaboratory comparison programs <https://davidasheen.github.io/qmet>`_
+`Interlaboratory comparison consensus analysis <https://pages.nist.gov/interlab_py>`_
 
-`Machine Learning Uncertainty <https://davidasheen.github.io/pls_uncertainty>`_
+`Machine Learning Uncertainty <https://pages.nist.gov/ml_uncertainty_py>`_
 
+Contact
++++++++
 
+David Sheen 
+
+* `Email <mailto:david.sheen@nist.gov>`_
+* `NIST Staff Page <https://www.nist.gov/people/david-sheen>`_
+* `GitHub profile <https://github.com/davidasheen>`_
 
 Links
 +++++
 
-`Github profile <https://github.com/davidasheen>`_
-
 `NIST GitHub Organization <https://github.com/usnistgov>`_
 
+`NIST Chemical Informatics Research Group <https://www.nist.gov/mml/csd/chemical-informatics-research-group>`_
+
 `NIST home page <http://nist.gov>`_
+
 
 
 
